@@ -1,0 +1,29 @@
+{
+  "id": "whitepaper/governance-roadmap/2-4-governance-process",
+  "title": "2.4 Governance Process",
+  "description": "V1 Phase",
+  "source": "@site/docs/whitepaper/2-governance-roadmap/2-4-governance-process.md",
+  "sourceDirName": "whitepaper/2-governance-roadmap",
+  "slug": "/whitepaper/governance-roadmap/2-4-governance-process",
+  "permalink": "/whitepaper/governance-roadmap/2-4-governance-process",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/trnlabs/Whitepaper/edit/main/docs/whitepaper/2-governance-roadmap/2-4-governance-process.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "2.4 Governance Process",
+    "sidebar_label": "2.4 Governance Process"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2.3 Voting Mechanism",
+    "permalink": "/whitepaper/governance-roadmap/2-3-voting-mechanism"
+  },
+  "next": {
+    "title": "2.5 Community Voting (Post-Governance Phase)",
+    "permalink": "/whitepaper/governance-roadmap/2-5-community-voting-post-governance-phase"
+  }
+}

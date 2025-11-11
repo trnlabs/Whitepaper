@@ -1,0 +1,29 @@
+{
+  "id": "whitepaper/treasury-policy/3-2-revenue-routing-architecture",
+  "title": "3.2 Revenue Routing Architecture",
+  "description": "| Category | Allocation | Purpose |",
+  "source": "@site/docs/whitepaper/3-treasury-policy/3-2-revenue-routing-architecture.md",
+  "sourceDirName": "whitepaper/3-treasury-policy",
+  "slug": "/whitepaper/treasury-policy/3-2-revenue-routing-architecture",
+  "permalink": "/whitepaper/treasury-policy/3-2-revenue-routing-architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/trnlabs/Whitepaper/edit/main/docs/whitepaper/3-treasury-policy/3-2-revenue-routing-architecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "3.2 Revenue Routing Architecture",
+    "sidebar_label": "3.2 Revenue Routing Architecture"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3.1 Role of the Treasury",
+    "permalink": "/whitepaper/treasury-policy/3-1-role-of-the-treasury"
+  },
+  "next": {
+    "title": "3.3 Buyback and Burn Policy",
+    "permalink": "/whitepaper/treasury-policy/3-3-buyback-and-burn-policy"
+  }
+}

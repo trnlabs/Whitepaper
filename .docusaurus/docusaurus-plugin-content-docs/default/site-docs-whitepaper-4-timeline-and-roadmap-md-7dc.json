@@ -1,0 +1,31 @@
+{
+  "id": "whitepaper/4-timeline-and-roadmap",
+  "title": "4. Timeline and Roadmap",
+  "description": "| Phase | Quarter | Key Milestones |",
+  "source": "@site/docs/whitepaper/4-timeline-and-roadmap.md",
+  "sourceDirName": "whitepaper",
+  "slug": "/4-timeline-and-roadmap",
+  "permalink": "/4-timeline-and-roadmap",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/trnlabs/Whitepaper/edit/main/docs/whitepaper/4-timeline-and-roadmap.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "4-timeline-and-roadmap",
+    "slug": "/4-timeline-and-roadmap",
+    "sidebar_position": 5,
+    "title": "4. Timeline and Roadmap",
+    "sidebar_label": "4. Timeline and Roadmap"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3.6 Treasury–Governance Feedback Loop",
+    "permalink": "/whitepaper/treasury-policy/3-6-treasury-governance-feedback-loop"
+  },
+  "next": {
+    "title": "5. Conclusion",
+    "permalink": "/5-conclusion"
+  }
+}

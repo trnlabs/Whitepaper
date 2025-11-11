@@ -1,0 +1,29 @@
+{
+  "id": "whitepaper/treasury-policy/3-1-role-of-the-treasury",
+  "title": "3.1 Role of the Treasury",
+  "description": "The Treasury is the central hub of the ROOT economy — aggregating all Vault revenues and recycling them through buybacks, burns, rewards, and reinvestments as defined by DAO policy.",
+  "source": "@site/docs/whitepaper/3-treasury-policy/3-1-role-of-the-treasury.md",
+  "sourceDirName": "whitepaper/3-treasury-policy",
+  "slug": "/whitepaper/treasury-policy/3-1-role-of-the-treasury",
+  "permalink": "/whitepaper/treasury-policy/3-1-role-of-the-treasury",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/trnlabs/Whitepaper/edit/main/docs/whitepaper/3-treasury-policy/3-1-role-of-the-treasury.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "3.1 Role of the Treasury",
+    "sidebar_label": "3.1 Role of the Treasury"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3. Treasury Policy",
+    "permalink": "/whitepaper/3-treasury-policy"
+  },
+  "next": {
+    "title": "3.2 Revenue Routing Architecture",
+    "permalink": "/whitepaper/treasury-policy/3-2-revenue-routing-architecture"
+  }
+}

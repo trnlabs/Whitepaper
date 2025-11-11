@@ -1,0 +1,29 @@
+{
+  "id": "whitepaper/governance-roadmap/2-5-community-voting-post-governance-phase",
+  "title": "2.5 Community Voting (Post-Governance Phase)",
+  "description": "After full DAO deployment:",
+  "source": "@site/docs/whitepaper/2-governance-roadmap/2-5-community-voting-post-governance-phase.md",
+  "sourceDirName": "whitepaper/2-governance-roadmap",
+  "slug": "/whitepaper/governance-roadmap/2-5-community-voting-post-governance-phase",
+  "permalink": "/whitepaper/governance-roadmap/2-5-community-voting-post-governance-phase",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/trnlabs/Whitepaper/edit/main/docs/whitepaper/2-governance-roadmap/2-5-community-voting-post-governance-phase.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "2.5 Community Voting (Post-Governance Phase)",
+    "sidebar_label": "2.5 Community Voting (Post-Governance Phase)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2.4 Governance Process",
+    "permalink": "/whitepaper/governance-roadmap/2-4-governance-process"
+  },
+  "next": {
+    "title": "3. Treasury Policy",
+    "permalink": "/whitepaper/3-treasury-policy"
+  }
+}

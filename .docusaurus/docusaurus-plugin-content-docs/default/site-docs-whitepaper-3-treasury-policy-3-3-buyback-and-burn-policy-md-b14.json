@@ -1,0 +1,29 @@
+{
+  "id": "whitepaper/treasury-policy/3-3-buyback-and-burn-policy",
+  "title": "3.3 Buyback and Burn Policy",
+  "description": "- 25 % of quarterly profits used for ROOT buybacks.",
+  "source": "@site/docs/whitepaper/3-treasury-policy/3-3-buyback-and-burn-policy.md",
+  "sourceDirName": "whitepaper/3-treasury-policy",
+  "slug": "/whitepaper/treasury-policy/3-3-buyback-and-burn-policy",
+  "permalink": "/whitepaper/treasury-policy/3-3-buyback-and-burn-policy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/trnlabs/Whitepaper/edit/main/docs/whitepaper/3-treasury-policy/3-3-buyback-and-burn-policy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "3.3 Buyback and Burn Policy",
+    "sidebar_label": "3.3 Buyback and Burn Policy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3.2 Revenue Routing Architecture",
+    "permalink": "/whitepaper/treasury-policy/3-2-revenue-routing-architecture"
+  },
+  "next": {
+    "title": "3.4 Transparency and Reporting",
+    "permalink": "/whitepaper/treasury-policy/3-4-transparency-and-reporting"
+  }
+}
