@@ -1,0 +1,26 @@
+{
+  "id": "whitepaper/index",
+  "title": "The ROOT Network 2.0 Whitepaper",
+  "description": "Second Chapter of Decentralization",
+  "source": "@site/docs/whitepaper/index.md",
+  "sourceDirName": "whitepaper",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/trnlabs/Whitepaper/edit/main/docs/whitepaper/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "The ROOT Network 2.0 Whitepaper",
+    "sidebar_label": "Overview",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "0. The ROOT Network (TRN)",
+    "permalink": "/0-the-root-network-trn-a-new-journey-and-philosophical-transition"
+  }
+}

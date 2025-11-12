@@ -1,0 +1,29 @@
+{
+  "id": "whitepaper/economic-design/1-2-token-utility",
+  "title": "1.2 Token Utility",
+  "description": "| Function | Description |",
+  "source": "@site/docs/whitepaper/1-economic-design/1-2-token-utility.md",
+  "sourceDirName": "whitepaper/1-economic-design",
+  "slug": "/whitepaper/economic-design/1-2-token-utility",
+  "permalink": "/whitepaper/economic-design/1-2-token-utility",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/trnlabs/Whitepaper/edit/main/docs/whitepaper/1-economic-design/1-2-token-utility.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "1.2 Token Utility",
+    "sidebar_label": "1.2 Token Utility"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1.1 Overview",
+    "permalink": "/whitepaper/economic-design/1-1-overview"
+  },
+  "next": {
+    "title": "1.3 Economic Flywheel",
+    "permalink": "/whitepaper/economic-design/1-4-economic-flywheel"
+  }
+}

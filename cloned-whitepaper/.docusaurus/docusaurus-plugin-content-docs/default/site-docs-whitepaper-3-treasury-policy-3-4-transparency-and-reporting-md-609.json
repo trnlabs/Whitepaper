@@ -1,0 +1,29 @@
+{
+  "id": "whitepaper/treasury-policy/3-4-transparency-and-reporting",
+  "title": "3.4 Transparency and Reporting",
+  "description": "| Interval | Report Item | Description |",
+  "source": "@site/docs/whitepaper/3-treasury-policy/3-4-transparency-and-reporting.md",
+  "sourceDirName": "whitepaper/3-treasury-policy",
+  "slug": "/whitepaper/treasury-policy/3-4-transparency-and-reporting",
+  "permalink": "/whitepaper/treasury-policy/3-4-transparency-and-reporting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/trnlabs/Whitepaper/edit/main/docs/whitepaper/3-treasury-policy/3-4-transparency-and-reporting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "3.4 Transparency and Reporting",
+    "sidebar_label": "3.4 Transparency and Reporting"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3.3 Buyback and Burn Policy",
+    "permalink": "/whitepaper/treasury-policy/3-3-buyback-and-burn-policy"
+  },
+  "next": {
+    "title": "3.5 Risk Management Framework",
+    "permalink": "/whitepaper/treasury-policy/3-5-risk-management-framework"
+  }
+}

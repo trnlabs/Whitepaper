@@ -1,0 +1,29 @@
+{
+  "id": "whitepaper/governance-roadmap/2-3-voting-mechanism",
+  "title": "2.3 Voting Mechanism",
+  "description": "Voting Power = ROOT Balance × vToken Multiplier × Holding Period Factor",
+  "source": "@site/docs/whitepaper/2-governance-roadmap/2-3-voting-mechanism.md",
+  "sourceDirName": "whitepaper/2-governance-roadmap",
+  "slug": "/whitepaper/governance-roadmap/2-3-voting-mechanism",
+  "permalink": "/whitepaper/governance-roadmap/2-3-voting-mechanism",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/trnlabs/Whitepaper/edit/main/docs/whitepaper/2-governance-roadmap/2-3-voting-mechanism.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "2.3 Voting Mechanism",
+    "sidebar_label": "2.3 Voting Mechanism"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2.2 Governance Phases",
+    "permalink": "/whitepaper/governance-roadmap/2-2-governance-phases"
+  },
+  "next": {
+    "title": "2.4 Governance Process",
+    "permalink": "/whitepaper/governance-roadmap/2-4-governance-process"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "whitepaper/treasury-policy/3-5-risk-management-framework",
+  "title": "3.5 Risk Management Framework",
+  "description": "| Domain | Risk | Mitigation |",
+  "source": "@site/docs/whitepaper/3-treasury-policy/3-5-risk-management-framework.md",
+  "sourceDirName": "whitepaper/3-treasury-policy",
+  "slug": "/whitepaper/treasury-policy/3-5-risk-management-framework",
+  "permalink": "/whitepaper/treasury-policy/3-5-risk-management-framework",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/trnlabs/Whitepaper/edit/main/docs/whitepaper/3-treasury-policy/3-5-risk-management-framework.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "3.5 Risk Management Framework",
+    "sidebar_label": "3.5 Risk Management Framework"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3.4 Transparency and Reporting",
+    "permalink": "/whitepaper/treasury-policy/3-4-transparency-and-reporting"
+  },
+  "next": {
+    "title": "3.6 Treasury–Governance Feedback Loop",
+    "permalink": "/whitepaper/treasury-policy/3-6-treasury-governance-feedback-loop"
+  }
+}
